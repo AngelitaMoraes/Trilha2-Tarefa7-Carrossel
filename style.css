@@ -8,7 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("./Imagem/Background.jpeg");
+    background-image: url("/Imagem/Background.jpeg");
 }
 
 .container1 {
